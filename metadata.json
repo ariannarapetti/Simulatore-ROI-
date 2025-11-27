@@ -1,0 +1,5 @@
+{
+  "name": "Gaia Automotive Simulatore ROI Service [ITA]",
+  "description": "A simulator to calculate the Return on Investment for the Gaia AI assistant based on missed calls and potential revenue.",
+  "requestFramePermissions": []
+}
